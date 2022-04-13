@@ -1,1 +1,0 @@
-<a href="https://lucas-s-evaristo.github.com/Front-End/responsividade/responsividade-1.html">Executar responsividade</a>
